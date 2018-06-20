@@ -4,4 +4,4 @@ MetaPOAP is a statistical tool for predicting the likelihood for the presence or
  and <a href="https://drive.google.com/file/d/1G1C_2eM4oF6XFYnOGv-ZlKBHUI8CF068/view">SI</a>). 
  MetaPOAP is provided as three Python scripts. metapoap_i.py is interactive on the command line, metapoap_cl.py accepts command line arguments, and metapoap_csv.py works with input and output csv files (an example input is provided as test.csv); usage details are provided in the SI of the Bioinformatics paper linked above. 
 If you use MetaPOAP, please cite: 
-Ward, LM, P Shih, and WW Fischer. MetaPOAP: Presence or Absence of Metabolic Pathways in Metagenome-Assembled Genomes. Bioinformatics, in press. DOI:10.1093/bioinformatics/bty510
+Ward, LM, PM Shih, and WW Fischer. MetaPOAP: Presence or Absence of Metabolic Pathways in Metagenome-Assembled Genomes. Bioinformatics, in press. DOI:10.1093/bioinformatics/bty510
