@@ -1,0 +1,6 @@
+﻿MAG ID,Pathway,Total genes in MAG,Completeness,Contamination,Genes in pathway,Genes recovered from pathway,Total number of contigs,Number of contigs with marker genes
+bin1,phototrophy,1000,0.9,0.1,6,5,100,3
+bin2,phototrophy,1200,0.75,0.03,6,1,250,1
+bin3,respiration,777,0.8,0,6,4,700,2
+bin5,respiration,0,0.5,0.2,3,0,1,4
+bin4,respiration,1000,1,0,3,2,300,1
